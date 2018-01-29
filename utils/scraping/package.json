@@ -1,0 +1,27 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node: index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-to-text": "^3.3.0",
+    "html2plaintext": "^2.0.1",
+    "jsdom": "^11.6.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "stream-transform": "^1.0.0",
+    "string-to-stream": "^1.1.0",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
