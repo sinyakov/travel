@@ -1,1314 +1,1314 @@
 [
   {
-    "web_name": "abkhazia",
+    "slug": "abkhazia",
     "latitude": "42.973782",
     "longitude": "41.442180",
     "name": "Абхазия"
   },
   {
-    "web_name": "australia",
+    "slug": "australia",
     "latitude": "-25.274398",
     "longitude": "133.775136",
     "name": "Австралия"
   },
   {
-    "web_name": "austria",
+    "slug": "austria",
     "latitude": "47.516231",
     "longitude": "14.550072",
     "name": "Австрия"
   },
   {
-    "web_name": "azerbaijan",
+    "slug": "azerbaijan",
     "latitude": "40.143105",
     "longitude": "47.576927",
     "name": "Азербайджан"
   },
   {
-    "web_name": "aland",
+    "slug": "aland",
     "latitude": "60.178525",
     "longitude": "19.915610",
     "name": "Аландские острова"
   },
   {
-    "web_name": "albania",
+    "slug": "albania",
     "latitude": "41.153332",
     "longitude": "20.168331",
     "name": "Албания"
   },
   {
-    "web_name": "american-samoa",
+    "slug": "american-samoa",
     "latitude": "-14.305941",
     "longitude": "-170.696200",
     "name": "Американское Самоа"
   },
   {
-    "web_name": "anguilla",
+    "slug": "anguilla",
     "latitude": "18.220554",
     "longitude": "-63.068615",
     "name": "Ангилья"
   },
   {
-    "web_name": "angola",
+    "slug": "angola",
     "latitude": "-11.202692",
     "longitude": "17.873887",
     "name": "Ангола"
   },
   {
-    "web_name": "andorra",
+    "slug": "andorra",
     "latitude": "42.506285",
     "longitude": "1.521801",
     "name": "Андорра"
   },
   {
-    "web_name": "antarctica",
+    "slug": "antarctica",
     "latitude": "-82.862752",
     "longitude": "-135.000000",
     "name": "Антарктида"
   },
   {
-    "web_name": "antigua-and-barbuda",
+    "slug": "antigua-and-barbuda",
     "latitude": "17.060816",
     "longitude": "-61.796428",
     "name": "Антигуа и&nbsp;Барбуда"
   },
   {
-    "web_name": "argentina",
+    "slug": "argentina",
     "latitude": "-38.416097",
     "longitude": "-63.616672",
     "name": "Аргентина"
   },
   {
-    "web_name": "armenia",
+    "slug": "armenia",
     "latitude": "40.069099",
     "longitude": "45.038189",
     "name": "Армения"
   },
   {
-    "web_name": "aruba",
+    "slug": "aruba",
     "latitude": "12.521110",
     "longitude": "-69.968338",
     "name": "Аруба"
   },
   {
-    "web_name": "afghanistan",
+    "slug": "afghanistan",
     "latitude": "33.939110",
     "longitude": "67.709953",
     "name": "Афганистан"
   },
   {
-    "web_name": "bahamas",
+    "slug": "bahamas",
     "latitude": "25.034280",
     "longitude": "-77.396280",
     "name": "Багамы"
   },
   {
-    "web_name": "barbados",
+    "slug": "barbados",
     "latitude": "13.193887",
     "longitude": "-59.543198",
     "name": "Барбадос"
   },
   {
-    "web_name": "belarus",
+    "slug": "belarus",
     "latitude": "53.709807",
     "longitude": "27.953389",
     "name": "Беларусь"
   },
   {
-    "web_name": "belize",
+    "slug": "belize",
     "latitude": "17.189877",
     "longitude": "-88.497650",
     "name": "Белиз"
   },
   {
-    "web_name": "belgium",
+    "slug": "belgium",
     "latitude": "50.503887",
     "longitude": "4.469936",
     "name": "Бельгия"
   },
   {
-    "web_name": "benin",
+    "slug": "benin",
     "latitude": "9.307690",
     "longitude": "2.315834",
     "name": "Бенин"
   },
   {
-    "web_name": "bermuda",
+    "slug": "bermuda",
     "latitude": "32.307800",
     "longitude": "-64.750500",
     "name": "Бермуды"
   },
   {
-    "web_name": "burma",
+    "slug": "burma",
     "latitude": "21.913965",
     "longitude": "95.956223",
     "name": "Бирма"
   },
   {
-    "web_name": "bulgaria",
+    "slug": "bulgaria",
     "latitude": "42.733883",
     "longitude": "25.485830",
     "name": "Болгария"
   },
   {
-    "web_name": "bolivia",
+    "slug": "bolivia",
     "latitude": "-16.290154",
     "longitude": "-63.588653",
     "name": "Боливия, Многонациональное Государство"
   },
   {
-    "web_name": "bonaire",
+    "slug": "bonaire",
     "latitude": "12.178361",
     "longitude": "-68.238534",
     "name": "Бонэйр"
   },
   {
-    "web_name": "bosnia-herzegovina",
+    "slug": "bosnia-herzegovina",
     "latitude": "43.915886",
     "longitude": "17.679076",
     "name": "Босния и&nbsp;Герцеговина"
   },
   {
-    "web_name": "botswana",
+    "slug": "botswana",
     "latitude": "-22.328474",
     "longitude": "24.684866",
     "name": "Ботсвана"
   },
   {
-    "web_name": "brazil",
+    "slug": "brazil",
     "latitude": "-14.235004",
     "longitude": "-51.925280",
     "name": "Бразилия"
   },
   {
-    "web_name": "brunei-darussalam",
+    "slug": "brunei-darussalam",
     "latitude": "4.535277",
     "longitude": "114.727669",
     "name": "Бруней-Даруссалам"
   },
   {
-    "web_name": "burkina-faso",
+    "slug": "burkina-faso",
     "latitude": "12.238333",
     "longitude": "-1.561593",
     "name": "Буркина-Фасо"
   },
   {
-    "web_name": "burundi",
+    "slug": "burundi",
     "latitude": "-3.373056",
     "longitude": "29.918886",
     "name": "Бурунди"
   },
   {
-    "web_name": "bhutan",
+    "slug": "bhutan",
     "latitude": "27.514162",
     "longitude": "90.433601",
     "name": "Бутан"
   },
   {
-    "web_name": "vanuatu",
+    "slug": "vanuatu",
     "latitude": "-15.376706",
     "longitude": "166.959158",
     "name": "Вануату"
   },
   {
-    "web_name": "hungary",
+    "slug": "hungary",
     "latitude": "47.162494",
     "longitude": "19.503304",
     "name": "Венгрия"
   },
   {
-    "web_name": "venezuela",
+    "slug": "venezuela",
     "latitude": "7.666667",
     "longitude": "-65.216667",
     "name": "Венесуэла Боливарианская Республика"
   },
   {
-    "web_name": "bvi",
+    "slug": "bvi",
     "latitude": "18.421427",
     "longitude": "-64.620158",
     "name": "Виргинские острова, Британские"
   },
   {
-    "web_name": "virgin-islands-us",
+    "slug": "virgin-islands-us",
     "latitude": "18.333333",
     "longitude": "-64.833333",
     "name": "Виргинские острова, США"
   },
   {
-    "web_name": "east-timor",
+    "slug": "east-timor",
     "latitude": "-8.874217",
     "longitude": "125.727539",
     "name": "Восточный Тимор"
   },
   {
-    "web_name": "vietnam",
+    "slug": "vietnam",
     "latitude": "14.058324",
     "longitude": "108.277199",
     "name": "Вьетнам"
   },
   {
-    "web_name": "gabon",
+    "slug": "gabon",
     "latitude": "-0.803689",
     "longitude": "11.609444",
     "name": "Габон"
   },
   {
-    "web_name": "haiti",
+    "slug": "haiti",
     "latitude": "18.971187",
     "longitude": "-72.285215",
     "name": "Гаити"
   },
   {
-    "web_name": "guyana",
+    "slug": "guyana",
     "latitude": "4.860416",
     "longitude": "-58.930180",
     "name": "Гайана"
   },
   {
-    "web_name": "gambia",
+    "slug": "gambia",
     "latitude": "13.443182",
     "longitude": "-15.310139",
     "name": "Гамбия"
   },
   {
-    "web_name": "ghana",
+    "slug": "ghana",
     "latitude": "7.946527",
     "longitude": "-1.023194",
     "name": "Гана"
   },
   {
-    "web_name": "guadeloupe",
+    "slug": "guadeloupe",
     "latitude": "16.265000",
     "longitude": "-61.551000",
     "name": "Гваделупа"
   },
   {
-    "web_name": "guatemala",
+    "slug": "guatemala",
     "latitude": "15.783471",
     "longitude": "-90.230759",
     "name": "Гватемала"
   },
   {
-    "web_name": "guinea-bissau",
+    "slug": "guinea-bissau",
     "latitude": "11.803749",
     "longitude": "-15.180413",
     "name": "Гвинея-Бисау"
   },
   {
-    "web_name": "germany",
+    "slug": "germany",
     "latitude": "51.165691",
     "longitude": "10.451526",
     "name": "Германия"
   },
   {
-    "web_name": "honduras",
+    "slug": "honduras",
     "latitude": "15.199999",
     "longitude": "-86.241905",
     "name": "Гондурас"
   },
   {
-    "web_name": "grenada",
+    "slug": "grenada",
     "latitude": "12.116500",
     "longitude": "-61.679000",
     "name": "Гренада"
   },
   {
-    "web_name": "greenland",
+    "slug": "greenland",
     "latitude": "71.706936",
     "longitude": "-42.604303",
     "name": "Гренландия"
   },
   {
-    "web_name": "greece",
+    "slug": "greece",
     "latitude": "39.074208",
     "longitude": "21.824312",
     "name": "Греция"
   },
   {
-    "web_name": "georgia",
+    "slug": "georgia",
     "latitude": "42.315407",
     "longitude": "43.356892",
     "name": "Грузия"
   },
   {
-    "web_name": "denmark",
+    "slug": "denmark",
     "latitude": "56.263920",
     "longitude": "9.501785",
     "name": "Дания"
   },
   {
-    "web_name": "djibouti",
+    "slug": "djibouti",
     "latitude": "11.825138",
     "longitude": "42.590275",
     "name": "Джибути"
   },
   {
-    "web_name": "dominica",
+    "slug": "dominica",
     "latitude": "15.414999",
     "longitude": "-61.370976",
     "name": "Доминика"
   },
   {
-    "web_name": "dominicana",
+    "slug": "dominicana",
     "latitude": "18.735693",
     "longitude": "-70.162651",
     "name": "Доминиканская Республика"
   },
   {
-    "web_name": "dpr",
+    "slug": "dpr",
     "latitude": "48.015707",
     "longitude": "37.802856",
     "name": "Донецкая народная республика"
   },
   {
-    "web_name": "egypt",
+    "slug": "egypt",
     "latitude": "26.820553",
     "longitude": "30.802498",
     "name": "Египет"
   },
   {
-    "web_name": "zambia",
+    "slug": "zambia",
     "latitude": "-13.133897",
     "longitude": "27.849332",
     "name": "Замбия"
   },
   {
-    "web_name": "western-sahara",
+    "slug": "western-sahara",
     "latitude": "24.215527",
     "longitude": "-12.885834",
     "name": "Западная Сахара"
   },
   {
-    "web_name": "zimbabwe",
+    "slug": "zimbabwe",
     "latitude": "-19.015438",
     "longitude": "29.154857",
     "name": "Зимбабве"
   },
   {
-    "web_name": "israel",
+    "slug": "israel",
     "latitude": "31.046051",
     "longitude": "34.851612",
     "name": "Израиль"
   },
   {
-    "web_name": "india",
+    "slug": "india",
     "latitude": "20.593684",
     "longitude": "78.962880",
     "name": "Индия"
   },
   {
-    "web_name": "indonesia",
+    "slug": "indonesia",
     "latitude": "-0.789275",
     "longitude": "113.921327",
     "name": "Индонезия"
   },
   {
-    "web_name": "jordan",
+    "slug": "jordan",
     "latitude": "30.585164",
     "longitude": "36.238414",
     "name": "Иордания"
   },
   {
-    "web_name": "iraq",
+    "slug": "iraq",
     "latitude": "33.223191",
     "longitude": "43.679291",
     "name": "Ирак"
   },
   {
-    "web_name": "iran",
+    "slug": "iran",
     "latitude": "32.427908",
     "longitude": "53.688046",
     "name": "Иран, Исламская Республика"
   },
   {
-    "web_name": "ireland",
+    "slug": "ireland",
     "latitude": "53.412910",
     "longitude": "-8.243890",
     "name": "Ирландия"
   },
   {
-    "web_name": "spain",
+    "slug": "spain",
     "latitude": "40.463667",
     "longitude": "-3.749220",
     "name": "Испания"
   },
   {
-    "web_name": "italy",
+    "slug": "italy",
     "latitude": "41.871940",
     "longitude": "12.567380",
     "name": "Италия"
   },
   {
-    "web_name": "cape-verde",
+    "slug": "cape-verde",
     "latitude": "15.121729",
     "longitude": "-23.605082",
     "name": "Кабо-Верде"
   },
   {
-    "web_name": "kazakhstan",
+    "slug": "kazakhstan",
     "latitude": "48.019573",
     "longitude": "66.923684",
     "name": "Казахстан"
   },
   {
-    "web_name": "cambodia",
+    "slug": "cambodia",
     "latitude": "12.565679",
     "longitude": "104.990963",
     "name": "Камбоджа"
   },
   {
-    "web_name": "cameroon",
+    "slug": "cameroon",
     "latitude": "7.369722",
     "longitude": "12.354722",
     "name": "Камерун"
   },
   {
-    "web_name": "canada",
+    "slug": "canada",
     "latitude": "56.130366",
     "longitude": "-106.346771",
     "name": "Канада"
   },
   {
-    "web_name": "qatar",
+    "slug": "qatar",
     "latitude": "25.354826",
     "longitude": "51.183884",
     "name": "Катар"
   },
   {
-    "web_name": "kenya",
+    "slug": "kenya",
     "latitude": "-0.023559",
     "longitude": "37.906193",
     "name": "Кения"
   },
   {
-    "web_name": "kyrgyzstan",
+    "slug": "kyrgyzstan",
     "latitude": "41.204380",
     "longitude": "74.766098",
     "name": "Киргизия"
   },
   {
-    "web_name": "kiribati",
+    "slug": "kiribati",
     "latitude": "1.871115",
     "longitude": "-157.360669",
     "name": "Кирибати"
   },
   {
-    "web_name": "china",
+    "slug": "china",
     "latitude": "35.861660",
     "longitude": "104.195397",
     "name": "Китай"
   },
   {
-    "web_name": "colombia",
+    "slug": "colombia",
     "latitude": "4.570868",
     "longitude": "-74.297333",
     "name": "Колумбия"
   },
   {
-    "web_name": "congo",
+    "slug": "congo",
     "latitude": "-0.228021",
     "longitude": "15.827659",
     "name": "Конго"
   },
   {
-    "web_name": "congo-democratic",
+    "slug": "congo-democratic",
     "latitude": "-2.333333",
     "longitude": "22.800000",
     "name": "Конго, Демократическая Республика"
   },
   {
-    "web_name": "kosovo",
+    "slug": "kosovo",
     "latitude": "42.581372",
     "longitude": "20.889336",
     "name": "Косово"
   },
   {
-    "web_name": "costa-rica",
+    "slug": "costa-rica",
     "latitude": "9.748917",
     "longitude": "-83.753428",
     "name": "Коста-Рика"
   },
   {
-    "web_name": "curacao",
+    "slug": "curacao",
     "latitude": "12.169570",
     "longitude": "-68.990020",
     "name": "Кюрасао"
   },
   {
-    "web_name": "laos",
+    "slug": "laos",
     "latitude": "19.856270",
     "longitude": "102.495496",
     "name": "Лаос"
   },
   {
-    "web_name": "latvia",
+    "slug": "latvia",
     "latitude": "56.879635",
     "longitude": "24.603189",
     "name": "Латвия"
   },
   {
-    "web_name": "lesotho",
+    "slug": "lesotho",
     "latitude": "-29.609988",
     "longitude": "28.233608",
     "name": "Лесото"
   },
   {
-    "web_name": "lebanon",
+    "slug": "lebanon",
     "latitude": "33.854721",
     "longitude": "35.862285",
     "name": "Ливан"
   },
   {
-    "web_name": "lithuania",
+    "slug": "lithuania",
     "latitude": "55.169438",
     "longitude": "23.881275",
     "name": "Литва"
   },
   {
-    "web_name": "liechtenstein",
+    "slug": "liechtenstein",
     "latitude": "47.166000",
     "longitude": "9.555373",
     "name": "Лихтенштейн"
   },
   {
-    "web_name": "luxembourg",
+    "slug": "luxembourg",
     "latitude": "49.605696",
     "longitude": "6.135076",
     "name": "Люксембург"
   },
   {
-    "web_name": "mauritius",
+    "slug": "mauritius",
     "latitude": "-20.348404",
     "longitude": "57.552152",
     "name": "Маврикий"
   },
   {
-    "web_name": "mauritania",
+    "slug": "mauritania",
     "latitude": "21.007890",
     "longitude": "-10.940835",
     "name": "Мавритания"
   },
   {
-    "web_name": "madagascar",
+    "slug": "madagascar",
     "latitude": "-18.766947",
     "longitude": "46.869107",
     "name": "Мадагаскар"
   },
   {
-    "web_name": "malawi",
+    "slug": "malawi",
     "latitude": "-13.254308",
     "longitude": "34.301525",
     "name": "Малави"
   },
   {
-    "web_name": "malaysia",
+    "slug": "malaysia",
     "latitude": "4.210484",
     "longitude": "101.975766",
     "name": "Малайзия"
   },
   {
-    "web_name": "mali",
+    "slug": "mali",
     "latitude": "17.570692",
     "longitude": "-3.996166",
     "name": "Мали"
   },
   {
-    "web_name": "maldives",
+    "slug": "maldives",
     "latitude": "1.977247",
     "longitude": "73.536103",
     "name": "Мальдивы"
   },
   {
-    "web_name": "malta",
+    "slug": "malta",
     "latitude": "35.937496",
     "longitude": "14.375416",
     "name": "Мальта"
   },
   {
-    "web_name": "morocco",
+    "slug": "morocco",
     "latitude": "31.791702",
     "longitude": "-7.092620",
     "name": "Марокко"
   },
   {
-    "web_name": "martinique",
+    "slug": "martinique",
     "latitude": "14.641528",
     "longitude": "-61.024174",
     "name": "Мартиника"
   },
   {
-    "web_name": "micronesia",
+    "slug": "micronesia",
     "latitude": "6.916667",
     "longitude": "158.183333",
     "name": "Микронезия, Федеративные Штаты"
   },
   {
-    "web_name": "mozambique",
+    "slug": "mozambique",
     "latitude": "-18.665695",
     "longitude": "35.529562",
     "name": "Мозамбик"
   },
   {
-    "web_name": "moldova",
+    "slug": "moldova",
     "latitude": "47.216667",
     "longitude": "28.583333",
     "name": "Молдова, Республика"
   },
   {
-    "web_name": "mongolia",
+    "slug": "mongolia",
     "latitude": "46.862496",
     "longitude": "103.846656",
     "name": "Монголия"
   },
   {
-    "web_name": "montserrat",
+    "slug": "montserrat",
     "latitude": "16.742498",
     "longitude": "-62.187366",
     "name": "Монтсеррат"
   },
   {
-    "web_name": "nagorniy-karabah",
+    "slug": "nagorniy-karabah",
     "latitude": "39.875435",
     "longitude": "46.677344",
     "name": "Нагорный Карабах"
   },
   {
-    "web_name": "namibia",
+    "slug": "namibia",
     "latitude": "-22.957640",
     "longitude": "18.490410",
     "name": "Намибия"
   },
   {
-    "web_name": "nepal",
+    "slug": "nepal",
     "latitude": "28.394857",
     "longitude": "84.124008",
     "name": "Непал"
   },
   {
-    "web_name": "niger",
+    "slug": "niger",
     "latitude": "17.607789",
     "longitude": "8.081666",
     "name": "Нигер"
   },
   {
-    "web_name": "nigeria",
+    "slug": "nigeria",
     "latitude": "9.081999",
     "longitude": "8.675277",
     "name": "Нигерия"
   },
   {
-    "web_name": "netherlands",
+    "slug": "netherlands",
     "latitude": "52.132633",
     "longitude": "5.291266",
     "name": "Нидерланды"
   },
   {
-    "web_name": "nicaragua",
+    "slug": "nicaragua",
     "latitude": "12.865416",
     "longitude": "-85.207229",
     "name": "Никарагуа"
   },
   {
-    "web_name": "niue",
+    "slug": "niue",
     "latitude": "-19.054445",
     "longitude": "-169.867233",
     "name": "Ниуэ"
   },
   {
-    "web_name": "new-zealand",
+    "slug": "new-zealand",
     "latitude": "-40.900557",
     "longitude": "174.885971",
     "name": "Новая Зеландия"
   },
   {
-    "web_name": "new-caledonia",
+    "slug": "new-caledonia",
     "latitude": "-21.393566",
     "longitude": "165.569977",
     "name": "Новая Каледония"
   },
   {
-    "web_name": "norway",
+    "slug": "norway",
     "latitude": "60.472024",
     "longitude": "8.468946",
     "name": "Норвегия"
   },
   {
-    "web_name": "uae",
+    "slug": "uae",
     "latitude": "23.424076",
     "longitude": "53.847818",
     "name": "Объединенные Арабские Эмираты"
   },
   {
-    "web_name": "isle-of-man",
+    "slug": "isle-of-man",
     "latitude": "54.236107",
     "longitude": "-4.548056",
     "name": "Остров Мэн"
   },
   {
-    "web_name": "christmas-island",
+    "slug": "christmas-island",
     "latitude": "-10.447525",
     "longitude": "105.690449",
     "name": "Остров Рождества"
   },
   {
-    "web_name": "caymans",
+    "slug": "caymans",
     "latitude": "19.313300",
     "longitude": "-81.254600",
     "name": "Острова Кайман"
   },
   {
-    "web_name": "cook-islands",
+    "slug": "cook-islands",
     "latitude": "-21.236736",
     "longitude": "-159.777671",
     "name": "Острова Кука"
   },
   {
-    "web_name": "turks-and-caicos",
+    "slug": "turks-and-caicos",
     "latitude": "21.694025",
     "longitude": "-71.797928",
     "name": "Острова Тёркс и&nbsp;Кайкос"
   },
   {
-    "web_name": "pakistan",
+    "slug": "pakistan",
     "latitude": "30.375321",
     "longitude": "69.345116",
     "name": "Пакистан"
   },
   {
-    "web_name": "palau",
+    "slug": "palau",
     "latitude": "7.514980",
     "longitude": "134.582520",
     "name": "Палау"
   },
   {
-    "web_name": "palestine",
+    "slug": "palestine",
     "latitude": "31.883333",
     "longitude": "35.200000",
     "name": "Палестинская территория, оккупированная"
   },
   {
-    "web_name": "panama",
+    "slug": "panama",
     "latitude": "8.537981",
     "longitude": "-80.782127",
     "name": "Панама"
   },
   {
-    "web_name": "papua-new-guinea",
+    "slug": "papua-new-guinea",
     "latitude": "-6.314993",
     "longitude": "143.955550",
     "name": "Папуа&nbsp;— Новая Гвинея"
   },
   {
-    "web_name": "paraguay",
+    "slug": "paraguay",
     "latitude": "-23.442503",
     "longitude": "-58.443832",
     "name": "Парагвай"
   },
   {
-    "web_name": "peru",
+    "slug": "peru",
     "latitude": "-9.189967",
     "longitude": "-75.015152",
     "name": "Перу"
   },
   {
-    "web_name": "pitcairn",
+    "slug": "pitcairn",
     "latitude": "-24.376389",
     "longitude": "-128.322778",
     "name": "Питкэрн"
   },
   {
-    "web_name": "poland",
+    "slug": "poland",
     "latitude": "51.919438",
     "longitude": "19.145136",
     "name": "Польша"
   },
   {
-    "web_name": "portugal",
+    "slug": "portugal",
     "latitude": "39.399872",
     "longitude": "-8.224454",
     "name": "Португалия"
   },
   {
-    "web_name": "transnistria",
+    "slug": "transnistria",
     "latitude": "47.215297",
     "longitude": "29.463805",
     "name": "Приднестровье"
   },
   {
-    "web_name": "puerto-rico",
+    "slug": "puerto-rico",
     "latitude": "18.220833",
     "longitude": "-66.590149",
     "name": "Пуэрто-Рико"
   },
   {
-    "web_name": "macedonia",
+    "slug": "macedonia",
     "latitude": "41.608635",
     "longitude": "21.745275",
     "name": "Республика Македония"
   },
   {
-    "web_name": "reunion",
+    "slug": "reunion",
     "latitude": "-21.115141",
     "longitude": "55.536384",
     "name": "Реюньон"
   },
   {
-    "web_name": "russia",
+    "slug": "russia",
     "latitude": "61.524010",
     "longitude": "105.318756",
     "name": "Россия"
   },
   {
-    "web_name": "rwanda",
+    "slug": "rwanda",
     "latitude": "-1.940278",
     "longitude": "29.873888",
     "name": "Руанда"
   },
   {
-    "web_name": "romania",
+    "slug": "romania",
     "latitude": "45.943161",
     "longitude": "24.966760",
     "name": "Румыния"
   },
   {
-    "web_name": "saba",
+    "slug": "saba",
     "latitude": "17.626902",
     "longitude": "-63.243269",
     "name": "Саба"
   },
   {
-    "web_name": "samoa",
+    "slug": "samoa",
     "latitude": "-13.657632",
     "longitude": "-172.467178",
     "name": "Самоа"
   },
   {
-    "web_name": "sao-tome-and-principe",
+    "slug": "sao-tome-and-principe",
     "latitude": "0.186360",
     "longitude": "6.613081",
     "name": "Сан-Томе и&nbsp;Принсипи"
   },
   {
-    "web_name": "saudi-arabia",
+    "slug": "saudi-arabia",
     "latitude": "23.885942",
     "longitude": "45.079162",
     "name": "Саудовская Аравия"
   },
   {
-    "web_name": "sahrawi",
+    "slug": "sahrawi",
     "latitude": "21.678606",
     "longitude": "-13.380902",
     "name": "Сахрави"
   },
   {
-    "web_name": "swaziland",
+    "slug": "swaziland",
     "latitude": "-26.522503",
     "longitude": "31.465866",
     "name": "Свазиленд"
   },
   {
-    "web_name": "saint-helena-ascension-tristan-da-cunha",
+    "slug": "saint-helena-ascension-tristan-da-cunha",
     "latitude": "-37.105249",
     "longitude": "-12.277684",
     "name": "Святая Елена, Остров Вознесения, Тристан-да-Кунья"
   },
   {
-    "web_name": "northern-mariana-islands",
+    "slug": "northern-mariana-islands",
     "latitude": "15.097900",
     "longitude": "145.673900",
     "name": "Северные Марианские острова"
   },
   {
-    "web_name": "northern-cyprus",
+    "slug": "northern-cyprus",
     "latitude": "35.126413",
     "longitude": "33.429859",
     "name": "Северный Кипр"
   },
   {
-    "web_name": "seychelles",
+    "slug": "seychelles",
     "latitude": "-4.679574",
     "longitude": "55.491977",
     "name": "Сейшелы"
   },
   {
-    "web_name": "saint-barthelemy",
+    "slug": "saint-barthelemy",
     "latitude": "17.900000",
     "longitude": "-62.833333",
     "name": "Сен-Бартелеми"
   },
   {
-    "web_name": "saint-martin",
+    "slug": "saint-martin",
     "latitude": "18.080921",
     "longitude": "-63.060410",
     "name": "Сен-Мартен"
   },
   {
-    "web_name": "saint-pierre-and-miquelon",
+    "slug": "saint-pierre-and-miquelon",
     "latitude": "46.885200",
     "longitude": "-56.315900",
     "name": "Сен-Пьер и&nbsp;Микелон"
   },
   {
-    "web_name": "senegal",
+    "slug": "senegal",
     "latitude": "14.497401",
     "longitude": "-14.452362",
     "name": "Сенегал"
   },
   {
-    "web_name": "saint-vincent-grenadines",
+    "slug": "saint-vincent-grenadines",
     "latitude": "13.253351",
     "longitude": "-61.196251",
     "name": "Сент-Винсент и&nbsp;Гренадины"
   },
   {
-    "web_name": "saint-kitts-nevis",
+    "slug": "saint-kitts-nevis",
     "latitude": "17.357822",
     "longitude": "-62.782998",
     "name": "Сент-Китс и&nbsp;Невис"
   },
   {
-    "web_name": "saint-lucia",
+    "slug": "saint-lucia",
     "latitude": "13.909444",
     "longitude": "-60.978893",
     "name": "Сент-Люсия"
   },
   {
-    "web_name": "serbia",
+    "slug": "serbia",
     "latitude": "44.016521",
     "longitude": "21.005859",
     "name": "Сербия"
   },
   {
-    "web_name": "sint-maarten",
+    "slug": "sint-maarten",
     "latitude": "18.030827",
     "longitude": "-63.073633",
     "name": "Синт-Мартен"
   },
   {
-    "web_name": "sint-eustatius",
+    "slug": "sint-eustatius",
     "latitude": "17.489167",
     "longitude": "-62.971389",
     "name": "Синт-Эстатиус"
   },
   {
-    "web_name": "syria",
+    "slug": "syria",
     "latitude": "35.300000",
     "longitude": "38.633333",
     "name": "Сирийская Арабская Республика"
   },
   {
-    "web_name": "slovakia",
+    "slug": "slovakia",
     "latitude": "48.669026",
     "longitude": "19.699024",
     "name": "Словакия"
   },
   {
-    "web_name": "slovenia",
+    "slug": "slovenia",
     "latitude": "46.151241",
     "longitude": "14.995463",
     "name": "Словения"
   },
   {
-    "web_name": "united-kingdom",
+    "slug": "united-kingdom",
     "latitude": "53.550000",
     "longitude": "-2.433333",
     "name": "Соединенное Королевство"
   },
   {
-    "web_name": "usa",
+    "slug": "usa",
     "latitude": "40.000000",
     "longitude": "-100.000000",
     "name": "Соединенные Штаты"
   },
   {
-    "web_name": "solomon-islands",
+    "slug": "solomon-islands",
     "latitude": "-9.645710",
     "longitude": "160.156194",
     "name": "Соломоновы острова"
   },
   {
-    "web_name": "somalia",
+    "slug": "somalia",
     "latitude": "5.152149",
     "longitude": "46.199616",
     "name": "Сомали"
   },
   {
-    "web_name": "somaliland",
+    "slug": "somaliland",
     "latitude": "9.750000",
     "longitude": "45.966667",
     "name": "Сомалиленд"
   },
   {
-    "web_name": "sudan",
+    "slug": "sudan",
     "latitude": "12.862807",
     "longitude": "30.217636",
     "name": "Судан"
   },
   {
-    "web_name": "sierra-leone",
+    "slug": "sierra-leone",
     "latitude": "8.460555",
     "longitude": "-11.779889",
     "name": "Сьерра-Леоне"
   },
   {
-    "web_name": "tajikistan",
+    "slug": "tajikistan",
     "latitude": "38.861034",
     "longitude": "71.276093",
     "name": "Таджикистан"
   },
   {
-    "web_name": "thailand",
+    "slug": "thailand",
     "latitude": "15.870032",
     "longitude": "100.992541",
     "name": "Таиланд"
   },
   {
-    "web_name": "taiwan",
+    "slug": "taiwan",
     "latitude": "23.766667",
     "longitude": "121.000000",
     "name": "Тайвань (Китай)"
   },
   {
-    "web_name": "tanzania",
+    "slug": "tanzania",
     "latitude": "-5.916667",
     "longitude": "34.533333",
     "name": "Танзания, Объединенная Республика"
   },
   {
-    "web_name": "togo",
+    "slug": "togo",
     "latitude": "8.619543",
     "longitude": "0.824782",
     "name": "Того"
   },
   {
-    "web_name": "tokelau",
+    "slug": "tokelau",
     "latitude": "-9.200200",
     "longitude": "-171.848400",
     "name": "Токелау"
   },
   {
-    "web_name": "tonga",
+    "slug": "tonga",
     "latitude": "-21.178986",
     "longitude": "-175.198242",
     "name": "Тонга"
   },
   {
-    "web_name": "trinidad-tobago",
+    "slug": "trinidad-tobago",
     "latitude": "10.691803",
     "longitude": "-61.222503",
     "name": "Тринидад и&nbsp;Тобаго"
   },
   {
-    "web_name": "tuvalu",
+    "slug": "tuvalu",
     "latitude": "-7.478442",
     "longitude": "178.679921",
     "name": "Тувалу"
   },
   {
-    "web_name": "tunisia",
+    "slug": "tunisia",
     "latitude": "33.886917",
     "longitude": "9.537499",
     "name": "Тунис"
   },
   {
-    "web_name": "turkmenistan",
+    "slug": "turkmenistan",
     "latitude": "38.969719",
     "longitude": "59.556278",
     "name": "Туркмения"
   },
   {
-    "web_name": "turkey",
+    "slug": "turkey",
     "latitude": "38.963745",
     "longitude": "35.243322",
     "name": "Турция"
   },
   {
-    "web_name": "uganda",
+    "slug": "uganda",
     "latitude": "1.373333",
     "longitude": "32.290275",
     "name": "Уганда"
   },
   {
-    "web_name": "ukraine",
+    "slug": "ukraine",
     "latitude": "48.379433",
     "longitude": "31.165580",
     "name": "Украина"
   },
   {
-    "web_name": "wallis-futuna",
+    "slug": "wallis-futuna",
     "latitude": "-14.293800",
     "longitude": "-178.116500",
     "name": "Уоллис и&nbsp;Футуна"
   },
   {
-    "web_name": "uruguay",
+    "slug": "uruguay",
     "latitude": "-32.522779",
     "longitude": "-55.765835",
     "name": "Уругвай"
   },
   {
-    "web_name": "faroe-islands",
+    "slug": "faroe-islands",
     "latitude": "61.892635",
     "longitude": "-6.911806",
     "name": "Фарерские острова"
   },
   {
-    "web_name": "fiji",
+    "slug": "fiji",
     "latitude": "-17.713371",
     "longitude": "178.065032",
     "name": "Фиджи"
   },
   {
-    "web_name": "philippines",
+    "slug": "philippines",
     "latitude": "12.800000",
     "longitude": "122.050000",
     "name": "Филиппины"
   },
   {
-    "web_name": "finland",
+    "slug": "finland",
     "latitude": "61.924110",
     "longitude": "25.748151",
     "name": "Финляндия"
   },
   {
-    "web_name": "falklands",
+    "slug": "falklands",
     "latitude": "-51.634225",
     "longitude": "-58.659424",
     "name": "Фолклендские острова (Мальвинские)"
   },
   {
-    "web_name": "france",
+    "slug": "france",
     "latitude": "46.227638",
     "longitude": "2.213749",
     "name": "Франция"
   },
   {
-    "web_name": "french-guiana",
+    "slug": "french-guiana",
     "latitude": "3.933889",
     "longitude": "-53.125782",
     "name": "Французская Гвиана"
   },
   {
-    "web_name": "french-polynesia",
+    "slug": "french-polynesia",
     "latitude": "-17.679742",
     "longitude": "-149.406843",
     "name": "Французская Полинезия"
   },
   {
-    "web_name": "croatia",
+    "slug": "croatia",
     "latitude": "45.100000",
     "longitude": "15.200000",
     "name": "Хорватия"
   },
   {
-    "web_name": "central-african-republic",
+    "slug": "central-african-republic",
     "latitude": "6.611111",
     "longitude": "20.939444",
     "name": "Центрально-Африканская Республика"
   },
   {
-    "web_name": "chad",
+    "slug": "chad",
     "latitude": "15.454166",
     "longitude": "18.732207",
     "name": "Чад"
   },
   {
-    "web_name": "montenegro",
+    "slug": "montenegro",
     "latitude": "42.708678",
     "longitude": "19.374390",
     "name": "Черногория"
   },
   {
-    "web_name": "czech-republic",
+    "slug": "czech-republic",
     "latitude": "49.817492",
     "longitude": "15.472962",
     "name": "Чешская Республика"
   },
   {
-    "web_name": "chile",
+    "slug": "chile",
     "latitude": "-35.675147",
     "longitude": "-71.542969",
     "name": "Чили"
   },
   {
-    "web_name": "switzerland",
+    "slug": "switzerland",
     "latitude": "46.818188",
     "longitude": "8.227512",
     "name": "Швейцария"
   },
   {
-    "web_name": "sweden",
+    "slug": "sweden",
     "latitude": "60.128161",
     "longitude": "18.643501",
     "name": "Швеция"
   },
   {
-    "web_name": "sri-lanka",
+    "slug": "sri-lanka",
     "latitude": "7.873054",
     "longitude": "80.771797",
     "name": "Шри-Ланка"
   },
   {
-    "web_name": "ecuador",
+    "slug": "ecuador",
     "latitude": "-1.831239",
     "longitude": "-78.183406",
     "name": "Эквадор"
   },
   {
-    "web_name": "equatorial-guinea",
+    "slug": "equatorial-guinea",
     "latitude": "1.650801",
     "longitude": "10.267895",
     "name": "Экваториальная Гвинея"
   },
   {
-    "web_name": "eritrea",
+    "slug": "eritrea",
     "latitude": "15.179384",
     "longitude": "39.782334",
     "name": "Эритрея"
   },
   {
-    "web_name": "estonia",
+    "slug": "estonia",
     "latitude": "58.595272",
     "longitude": "25.013607",
     "name": "Эстония"
   },
   {
-    "web_name": "ethiopia",
+    "slug": "ethiopia",
     "latitude": "9.145000",
     "longitude": "40.489673",
     "name": "Эфиопия"
   },
   {
-    "web_name": "south-georgia-and-south-sandwich-islands",
+    "slug": "south-georgia-and-south-sandwich-islands",
     "latitude": "-54.250000",
     "longitude": "-36.750000",
     "name": "Южная Георгия и&nbsp;Южные Сандвичевы острова"
   },
   {
-    "web_name": "south-ossetia",
+    "slug": "south-ossetia",
     "latitude": "42.383333",
     "longitude": "44.083333",
     "name": "Южная Осетия"
   },
   {
-    "web_name": "south-africa",
+    "slug": "south-africa",
     "latitude": "-30.559482",
     "longitude": "22.937506",
     "name": "Южно-Африканская Республика"
   },
   {
-    "web_name": "south-sudan",
+    "slug": "south-sudan",
     "latitude": "7.963092",
     "longitude": "30.158930",
     "name": "Южный Судан"
   },
   {
-    "web_name": "jamaica",
+    "slug": "jamaica",
     "latitude": "18.109581",
     "longitude": "-77.297508",
     "name": "Ямайка"
   },
   {
-    "web_name": "japan",
+    "slug": "japan",
     "latitude": "36.204824",
     "longitude": "138.252924",
     "name": "Япония"
